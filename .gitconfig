@@ -1,0 +1,7 @@
+[user]
+	email = jastinagaziva@gmail.com
+	name = JastinAG
+[credential]
+	helper = store
+[core]
+	excludesfile = /root/.gitignore_global
